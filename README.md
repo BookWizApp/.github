@@ -1,4 +1,3 @@
-# .github
 # BookWizApp Automated_Book_summary_and_QA_generating_system
  
 The project addresses the common reluctance
